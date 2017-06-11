@@ -52,4 +52,8 @@
     <color name="fallback_secondary_color">#FF37474F</color>
 
     <color name="infomation_count_circle_color">#F44336</color>
+
+    <!-- Pixel -->
+    <color name="qsb_connector">#fff2f2f2</color>
+    <color name="qsb_background">#ffffffff</color>
 </resources>
